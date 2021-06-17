@@ -1,0 +1,3 @@
+# go_version_session_middleware
+* gin框架session管理中间件，包括内存和redis两个版本的session管理器
+* 使用鉴权中间件和session管理来进行登录验证
